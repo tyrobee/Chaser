@@ -3,7 +3,6 @@ A simple LED chaser board using a 555 IC. Ten LEDs will blink in sequence. I cre
 
 ## Schematic
 
-### S1
 ![S1](kicad/S1.png)
 
 ## PCB
